@@ -27,4 +27,40 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     transition: 0.4s;
   }
-  
+.text{
+    padding: 5%;
+    float: right;
+    width: 50%;
+}
+#About_me{
+    font-family: times new Roman;
+}
+.Third_Part{
+    text-align: center;
+}
+.percentage1{
+padding-left: 90%;
+color: rgb(235, 183, 183);
+border: solid;
+background-color: rgb(26, 115, 216);
+text-align:center;
+}
+.percentage2{
+padding-left: 85%;
+color: rgb(48, 2, 2);
+background-color: blue;
+border: solid;
+text-align:center;
+}
+.percentage3{
+padding-left: 75%;
+border-width: 100px;
+border: solid;
+color: rgb(116, 12, 12);
+text-align:center;
+background-color: coral;
+}    
+.percentage{
+    margin: 0px 100px 40px 100px;
+
+}
